@@ -1,0 +1,1 @@
+winget install -e --id GnuWin32.Wget
